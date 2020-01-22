@@ -1,4 +1,4 @@
-# HappyHelp-Vivien
+# HappyHelp-Vilmos
 PSD to HTML sitebuilder task
 
 # Specifikáció (sitebuilder feladat)
