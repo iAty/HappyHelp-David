@@ -1,4 +1,4 @@
-# HappyHelp-Bernadett
+# HappyHelp-David
 PSD to HTML sitebuilder task
 
 # Specifikáció (sitebuilder feladat)
